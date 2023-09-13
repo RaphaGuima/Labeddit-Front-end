@@ -1,1 +1,0 @@
-# Labeddit-Front-end
